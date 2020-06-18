@@ -118,3 +118,1683 @@
 "24"
 ]
 }]
+[{
+"category": "Entertainment: Television",
+"type": "multiple",
+"difficulty": "medium",
+"question": "From what show is the character &quot;James Doakes&quot;? ",
+"correct_answer": "Dexter",
+"incorrect_answers": [
+"Marvel&#039;s Daredevil",
+"Boardwalk Empire",
+"The Walking Dead"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which famous world leader is famed for the saying, &quot;Let them eat cake&quot;, yet is rumored that he/she never said it at all?",
+"correct_answer": "Marie Antoinette",
+"incorrect_answers": [
+"Czar Nicholas II",
+"Elizabeth I",
+"Henry VIII"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "medium",
+"question": "On which day did construction start on &quot;The Pentagon&quot;, the headquarters for the United States Department of Defense?",
+"correct_answer": "September 11, 1941",
+"incorrect_answers": [
+"June 15, 1947",
+"January 15, 1943",
+"September 2, 1962"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "hard",
+"question": "What is the last line muttered in the anime film &quot;The End of Evangelion&quot;?",
+"correct_answer": "&quot;How disgusting.&quot;",
+"incorrect_answers": [
+"&quot;Idiot, I won&#039;t let you kill me!&quot;",
+"&quot;Nothing.&quot;",
+"&quot;Goddammit, Shinji.&quot;"
+]
+},
+{
+"category": "Entertainment: Video Games",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In the game The World Ends With You, all of these characters act as a game partner with Neku for a week except:",
+"correct_answer": "Rhyme",
+"incorrect_answers": [
+"Shiki",
+"Joshua",
+"Beat"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+"correct_answer": "US Open",
+"incorrect_answers": [
+"French Open",
+"Wimbledon",
+"Australian Open"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In &quot;Little Witch Academia&quot;, what is Shiny Chariot&#039;s alias at Luna Nova Academy?",
+"correct_answer": "Ursula Callistis",
+"incorrect_answers": [
+"Croix Meridies",
+"Miranda Holbrook",
+"Anne Finnelan"
+]
+},
+{
+"category": "Mythology",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In African mythology, Anansi is a trickster and storyteller who takes the shape of which animal?",
+"correct_answer": "Spider",
+"incorrect_answers": [
+"Wild dog",
+"Monkey",
+"Crocodile"
+]
+},
+{
+"category": "Entertainment: Comics",
+"type": "multiple",
+"difficulty": "medium",
+"question": "The stuffed tiger in Calvin and Hobbes is named after what philosopher?",
+"correct_answer": "Thomas Hobbes",
+"incorrect_answers": [
+"David Hobbes",
+"John Hobbes",
+"Nathaniel Hobbes"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+"correct_answer": "21",
+"incorrect_answers": [
+"23",
+"15",
+"24"
+]
+}]
+[{
+"category": "Entertainment: Television",
+"type": "multiple",
+"difficulty": "medium",
+"question": "From what show is the character &quot;James Doakes&quot;? ",
+"correct_answer": "Dexter",
+"incorrect_answers": [
+"Marvel&#039;s Daredevil",
+"Boardwalk Empire",
+"The Walking Dead"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which famous world leader is famed for the saying, &quot;Let them eat cake&quot;, yet is rumored that he/she never said it at all?",
+"correct_answer": "Marie Antoinette",
+"incorrect_answers": [
+"Czar Nicholas II",
+"Elizabeth I",
+"Henry VIII"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "medium",
+"question": "On which day did construction start on &quot;The Pentagon&quot;, the headquarters for the United States Department of Defense?",
+"correct_answer": "September 11, 1941",
+"incorrect_answers": [
+"June 15, 1947",
+"January 15, 1943",
+"September 2, 1962"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "hard",
+"question": "What is the last line muttered in the anime film &quot;The End of Evangelion&quot;?",
+"correct_answer": "&quot;How disgusting.&quot;",
+"incorrect_answers": [
+"&quot;Idiot, I won&#039;t let you kill me!&quot;",
+"&quot;Nothing.&quot;",
+"&quot;Goddammit, Shinji.&quot;"
+]
+},
+{
+"category": "Entertainment: Video Games",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In the game The World Ends With You, all of these characters act as a game partner with Neku for a week except:",
+"correct_answer": "Rhyme",
+"incorrect_answers": [
+"Shiki",
+"Joshua",
+"Beat"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+"correct_answer": "US Open",
+"incorrect_answers": [
+"French Open",
+"Wimbledon",
+"Australian Open"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In &quot;Little Witch Academia&quot;, what is Shiny Chariot&#039;s alias at Luna Nova Academy?",
+"correct_answer": "Ursula Callistis",
+"incorrect_answers": [
+"Croix Meridies",
+"Miranda Holbrook",
+"Anne Finnelan"
+]
+},
+{
+"category": "Mythology",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In African mythology, Anansi is a trickster and storyteller who takes the shape of which animal?",
+"correct_answer": "Spider",
+"incorrect_answers": [
+"Wild dog",
+"Monkey",
+"Crocodile"
+]
+},
+{
+"category": "Entertainment: Comics",
+"type": "multiple",
+"difficulty": "medium",
+"question": "The stuffed tiger in Calvin and Hobbes is named after what philosopher?",
+"correct_answer": "Thomas Hobbes",
+"incorrect_answers": [
+"David Hobbes",
+"John Hobbes",
+"Nathaniel Hobbes"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+"correct_answer": "21",
+"incorrect_answers": [
+"23",
+"15",
+"24"
+]
+}]
+[{
+"category": "Entertainment: Television",
+"type": "multiple",
+"difficulty": "medium",
+"question": "From what show is the character &quot;James Doakes&quot;? ",
+"correct_answer": "Dexter",
+"incorrect_answers": [
+"Marvel&#039;s Daredevil",
+"Boardwalk Empire",
+"The Walking Dead"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which famous world leader is famed for the saying, &quot;Let them eat cake&quot;, yet is rumored that he/she never said it at all?",
+"correct_answer": "Marie Antoinette",
+"incorrect_answers": [
+"Czar Nicholas II",
+"Elizabeth I",
+"Henry VIII"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "medium",
+"question": "On which day did construction start on &quot;The Pentagon&quot;, the headquarters for the United States Department of Defense?",
+"correct_answer": "September 11, 1941",
+"incorrect_answers": [
+"June 15, 1947",
+"January 15, 1943",
+"September 2, 1962"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "hard",
+"question": "What is the last line muttered in the anime film &quot;The End of Evangelion&quot;?",
+"correct_answer": "&quot;How disgusting.&quot;",
+"incorrect_answers": [
+"&quot;Idiot, I won&#039;t let you kill me!&quot;",
+"&quot;Nothing.&quot;",
+"&quot;Goddammit, Shinji.&quot;"
+]
+},
+{
+"category": "Entertainment: Video Games",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In the game The World Ends With You, all of these characters act as a game partner with Neku for a week except:",
+"correct_answer": "Rhyme",
+"incorrect_answers": [
+"Shiki",
+"Joshua",
+"Beat"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+"correct_answer": "US Open",
+"incorrect_answers": [
+"French Open",
+"Wimbledon",
+"Australian Open"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In &quot;Little Witch Academia&quot;, what is Shiny Chariot&#039;s alias at Luna Nova Academy?",
+"correct_answer": "Ursula Callistis",
+"incorrect_answers": [
+"Croix Meridies",
+"Miranda Holbrook",
+"Anne Finnelan"
+]
+},
+{
+"category": "Mythology",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In African mythology, Anansi is a trickster and storyteller who takes the shape of which animal?",
+"correct_answer": "Spider",
+"incorrect_answers": [
+"Wild dog",
+"Monkey",
+"Crocodile"
+]
+},
+{
+"category": "Entertainment: Comics",
+"type": "multiple",
+"difficulty": "medium",
+"question": "The stuffed tiger in Calvin and Hobbes is named after what philosopher?",
+"correct_answer": "Thomas Hobbes",
+"incorrect_answers": [
+"David Hobbes",
+"John Hobbes",
+"Nathaniel Hobbes"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+"correct_answer": "21",
+"incorrect_answers": [
+"23",
+"15",
+"24"
+]
+}]
+[{
+"category": "Entertainment: Television",
+"type": "multiple",
+"difficulty": "medium",
+"question": "From what show is the character &quot;James Doakes&quot;? ",
+"correct_answer": "Dexter",
+"incorrect_answers": [
+"Marvel&#039;s Daredevil",
+"Boardwalk Empire",
+"The Walking Dead"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which famous world leader is famed for the saying, &quot;Let them eat cake&quot;, yet is rumored that he/she never said it at all?",
+"correct_answer": "Marie Antoinette",
+"incorrect_answers": [
+"Czar Nicholas II",
+"Elizabeth I",
+"Henry VIII"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "medium",
+"question": "On which day did construction start on &quot;The Pentagon&quot;, the headquarters for the United States Department of Defense?",
+"correct_answer": "September 11, 1941",
+"incorrect_answers": [
+"June 15, 1947",
+"January 15, 1943",
+"September 2, 1962"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "hard",
+"question": "What is the last line muttered in the anime film &quot;The End of Evangelion&quot;?",
+"correct_answer": "&quot;How disgusting.&quot;",
+"incorrect_answers": [
+"&quot;Idiot, I won&#039;t let you kill me!&quot;",
+"&quot;Nothing.&quot;",
+"&quot;Goddammit, Shinji.&quot;"
+]
+},
+{
+"category": "Entertainment: Video Games",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In the game The World Ends With You, all of these characters act as a game partner with Neku for a week except:",
+"correct_answer": "Rhyme",
+"incorrect_answers": [
+"Shiki",
+"Joshua",
+"Beat"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+"correct_answer": "US Open",
+"incorrect_answers": [
+"French Open",
+"Wimbledon",
+"Australian Open"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In &quot;Little Witch Academia&quot;, what is Shiny Chariot&#039;s alias at Luna Nova Academy?",
+"correct_answer": "Ursula Callistis",
+"incorrect_answers": [
+"Croix Meridies",
+"Miranda Holbrook",
+"Anne Finnelan"
+]
+},
+{
+"category": "Mythology",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In African mythology, Anansi is a trickster and storyteller who takes the shape of which animal?",
+"correct_answer": "Spider",
+"incorrect_answers": [
+"Wild dog",
+"Monkey",
+"Crocodile"
+]
+},
+{
+"category": "Entertainment: Comics",
+"type": "multiple",
+"difficulty": "medium",
+"question": "The stuffed tiger in Calvin and Hobbes is named after what philosopher?",
+"correct_answer": "Thomas Hobbes",
+"incorrect_answers": [
+"David Hobbes",
+"John Hobbes",
+"Nathaniel Hobbes"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+"correct_answer": "21",
+"incorrect_answers": [
+"23",
+"15",
+"24"
+]
+}]
+[{
+"category": "Entertainment: Television",
+"type": "multiple",
+"difficulty": "medium",
+"question": "From what show is the character &quot;James Doakes&quot;? ",
+"correct_answer": "Dexter",
+"incorrect_answers": [
+"Marvel&#039;s Daredevil",
+"Boardwalk Empire",
+"The Walking Dead"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which famous world leader is famed for the saying, &quot;Let them eat cake&quot;, yet is rumored that he/she never said it at all?",
+"correct_answer": "Marie Antoinette",
+"incorrect_answers": [
+"Czar Nicholas II",
+"Elizabeth I",
+"Henry VIII"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "medium",
+"question": "On which day did construction start on &quot;The Pentagon&quot;, the headquarters for the United States Department of Defense?",
+"correct_answer": "September 11, 1941",
+"incorrect_answers": [
+"June 15, 1947",
+"January 15, 1943",
+"September 2, 1962"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "hard",
+"question": "What is the last line muttered in the anime film &quot;The End of Evangelion&quot;?",
+"correct_answer": "&quot;How disgusting.&quot;",
+"incorrect_answers": [
+"&quot;Idiot, I won&#039;t let you kill me!&quot;",
+"&quot;Nothing.&quot;",
+"&quot;Goddammit, Shinji.&quot;"
+]
+},
+{
+"category": "Entertainment: Video Games",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In the game The World Ends With You, all of these characters act as a game partner with Neku for a week except:",
+"correct_answer": "Rhyme",
+"incorrect_answers": [
+"Shiki",
+"Joshua",
+"Beat"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+"correct_answer": "US Open",
+"incorrect_answers": [
+"French Open",
+"Wimbledon",
+"Australian Open"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In &quot;Little Witch Academia&quot;, what is Shiny Chariot&#039;s alias at Luna Nova Academy?",
+"correct_answer": "Ursula Callistis",
+"incorrect_answers": [
+"Croix Meridies",
+"Miranda Holbrook",
+"Anne Finnelan"
+]
+},
+{
+"category": "Mythology",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In African mythology, Anansi is a trickster and storyteller who takes the shape of which animal?",
+"correct_answer": "Spider",
+"incorrect_answers": [
+"Wild dog",
+"Monkey",
+"Crocodile"
+]
+},
+{
+"category": "Entertainment: Comics",
+"type": "multiple",
+"difficulty": "medium",
+"question": "The stuffed tiger in Calvin and Hobbes is named after what philosopher?",
+"correct_answer": "Thomas Hobbes",
+"incorrect_answers": [
+"David Hobbes",
+"John Hobbes",
+"Nathaniel Hobbes"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+"correct_answer": "21",
+"incorrect_answers": [
+"23",
+"15",
+"24"
+]
+}]
+[{
+"category": "Entertainment: Television",
+"type": "multiple",
+"difficulty": "medium",
+"question": "From what show is the character &quot;James Doakes&quot;? ",
+"correct_answer": "Dexter",
+"incorrect_answers": [
+"Marvel&#039;s Daredevil",
+"Boardwalk Empire",
+"The Walking Dead"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which famous world leader is famed for the saying, &quot;Let them eat cake&quot;, yet is rumored that he/she never said it at all?",
+"correct_answer": "Marie Antoinette",
+"incorrect_answers": [
+"Czar Nicholas II",
+"Elizabeth I",
+"Henry VIII"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "medium",
+"question": "On which day did construction start on &quot;The Pentagon&quot;, the headquarters for the United States Department of Defense?",
+"correct_answer": "September 11, 1941",
+"incorrect_answers": [
+"June 15, 1947",
+"January 15, 1943",
+"September 2, 1962"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "hard",
+"question": "What is the last line muttered in the anime film &quot;The End of Evangelion&quot;?",
+"correct_answer": "&quot;How disgusting.&quot;",
+"incorrect_answers": [
+"&quot;Idiot, I won&#039;t let you kill me!&quot;",
+"&quot;Nothing.&quot;",
+"&quot;Goddammit, Shinji.&quot;"
+]
+},
+{
+"category": "Entertainment: Video Games",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In the game The World Ends With You, all of these characters act as a game partner with Neku for a week except:",
+"correct_answer": "Rhyme",
+"incorrect_answers": [
+"Shiki",
+"Joshua",
+"Beat"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+"correct_answer": "US Open",
+"incorrect_answers": [
+"French Open",
+"Wimbledon",
+"Australian Open"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In &quot;Little Witch Academia&quot;, what is Shiny Chariot&#039;s alias at Luna Nova Academy?",
+"correct_answer": "Ursula Callistis",
+"incorrect_answers": [
+"Croix Meridies",
+"Miranda Holbrook",
+"Anne Finnelan"
+]
+},
+{
+"category": "Mythology",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In African mythology, Anansi is a trickster and storyteller who takes the shape of which animal?",
+"correct_answer": "Spider",
+"incorrect_answers": [
+"Wild dog",
+"Monkey",
+"Crocodile"
+]
+},
+{
+"category": "Entertainment: Comics",
+"type": "multiple",
+"difficulty": "medium",
+"question": "The stuffed tiger in Calvin and Hobbes is named after what philosopher?",
+"correct_answer": "Thomas Hobbes",
+"incorrect_answers": [
+"David Hobbes",
+"John Hobbes",
+"Nathaniel Hobbes"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+"correct_answer": "21",
+"incorrect_answers": [
+"23",
+"15",
+"24"
+]
+}]
+[{
+"category": "Entertainment: Television",
+"type": "multiple",
+"difficulty": "medium",
+"question": "From what show is the character &quot;James Doakes&quot;? ",
+"correct_answer": "Dexter",
+"incorrect_answers": [
+"Marvel&#039;s Daredevil",
+"Boardwalk Empire",
+"The Walking Dead"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which famous world leader is famed for the saying, &quot;Let them eat cake&quot;, yet is rumored that he/she never said it at all?",
+"correct_answer": "Marie Antoinette",
+"incorrect_answers": [
+"Czar Nicholas II",
+"Elizabeth I",
+"Henry VIII"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "medium",
+"question": "On which day did construction start on &quot;The Pentagon&quot;, the headquarters for the United States Department of Defense?",
+"correct_answer": "September 11, 1941",
+"incorrect_answers": [
+"June 15, 1947",
+"January 15, 1943",
+"September 2, 1962"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "hard",
+"question": "What is the last line muttered in the anime film &quot;The End of Evangelion&quot;?",
+"correct_answer": "&quot;How disgusting.&quot;",
+"incorrect_answers": [
+"&quot;Idiot, I won&#039;t let you kill me!&quot;",
+"&quot;Nothing.&quot;",
+"&quot;Goddammit, Shinji.&quot;"
+]
+},
+{
+"category": "Entertainment: Video Games",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In the game The World Ends With You, all of these characters act as a game partner with Neku for a week except:",
+"correct_answer": "Rhyme",
+"incorrect_answers": [
+"Shiki",
+"Joshua",
+"Beat"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+"correct_answer": "US Open",
+"incorrect_answers": [
+"French Open",
+"Wimbledon",
+"Australian Open"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In &quot;Little Witch Academia&quot;, what is Shiny Chariot&#039;s alias at Luna Nova Academy?",
+"correct_answer": "Ursula Callistis",
+"incorrect_answers": [
+"Croix Meridies",
+"Miranda Holbrook",
+"Anne Finnelan"
+]
+},
+{
+"category": "Mythology",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In African mythology, Anansi is a trickster and storyteller who takes the shape of which animal?",
+"correct_answer": "Spider",
+"incorrect_answers": [
+"Wild dog",
+"Monkey",
+"Crocodile"
+]
+},
+{
+"category": "Entertainment: Comics",
+"type": "multiple",
+"difficulty": "medium",
+"question": "The stuffed tiger in Calvin and Hobbes is named after what philosopher?",
+"correct_answer": "Thomas Hobbes",
+"incorrect_answers": [
+"David Hobbes",
+"John Hobbes",
+"Nathaniel Hobbes"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+"correct_answer": "21",
+"incorrect_answers": [
+"23",
+"15",
+"24"
+]
+}]
+[{
+"category": "Entertainment: Television",
+"type": "multiple",
+"difficulty": "medium",
+"question": "From what show is the character &quot;James Doakes&quot;? ",
+"correct_answer": "Dexter",
+"incorrect_answers": [
+"Marvel&#039;s Daredevil",
+"Boardwalk Empire",
+"The Walking Dead"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which famous world leader is famed for the saying, &quot;Let them eat cake&quot;, yet is rumored that he/she never said it at all?",
+"correct_answer": "Marie Antoinette",
+"incorrect_answers": [
+"Czar Nicholas II",
+"Elizabeth I",
+"Henry VIII"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "medium",
+"question": "On which day did construction start on &quot;The Pentagon&quot;, the headquarters for the United States Department of Defense?",
+"correct_answer": "September 11, 1941",
+"incorrect_answers": [
+"June 15, 1947",
+"January 15, 1943",
+"September 2, 1962"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "hard",
+"question": "What is the last line muttered in the anime film &quot;The End of Evangelion&quot;?",
+"correct_answer": "&quot;How disgusting.&quot;",
+"incorrect_answers": [
+"&quot;Idiot, I won&#039;t let you kill me!&quot;",
+"&quot;Nothing.&quot;",
+"&quot;Goddammit, Shinji.&quot;"
+]
+},
+{
+"category": "Entertainment: Video Games",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In the game The World Ends With You, all of these characters act as a game partner with Neku for a week except:",
+"correct_answer": "Rhyme",
+"incorrect_answers": [
+"Shiki",
+"Joshua",
+"Beat"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+"correct_answer": "US Open",
+"incorrect_answers": [
+"French Open",
+"Wimbledon",
+"Australian Open"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In &quot;Little Witch Academia&quot;, what is Shiny Chariot&#039;s alias at Luna Nova Academy?",
+"correct_answer": "Ursula Callistis",
+"incorrect_answers": [
+"Croix Meridies",
+"Miranda Holbrook",
+"Anne Finnelan"
+]
+},
+{
+"category": "Mythology",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In African mythology, Anansi is a trickster and storyteller who takes the shape of which animal?",
+"correct_answer": "Spider",
+"incorrect_answers": [
+"Wild dog",
+"Monkey",
+"Crocodile"
+]
+},
+{
+"category": "Entertainment: Comics",
+"type": "multiple",
+"difficulty": "medium",
+"question": "The stuffed tiger in Calvin and Hobbes is named after what philosopher?",
+"correct_answer": "Thomas Hobbes",
+"incorrect_answers": [
+"David Hobbes",
+"John Hobbes",
+"Nathaniel Hobbes"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+"correct_answer": "21",
+"incorrect_answers": [
+"23",
+"15",
+"24"
+]
+}]
+[{
+"category": "Entertainment: Television",
+"type": "multiple",
+"difficulty": "medium",
+"question": "From what show is the character &quot;James Doakes&quot;? ",
+"correct_answer": "Dexter",
+"incorrect_answers": [
+"Marvel&#039;s Daredevil",
+"Boardwalk Empire",
+"The Walking Dead"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which famous world leader is famed for the saying, &quot;Let them eat cake&quot;, yet is rumored that he/she never said it at all?",
+"correct_answer": "Marie Antoinette",
+"incorrect_answers": [
+"Czar Nicholas II",
+"Elizabeth I",
+"Henry VIII"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "medium",
+"question": "On which day did construction start on &quot;The Pentagon&quot;, the headquarters for the United States Department of Defense?",
+"correct_answer": "September 11, 1941",
+"incorrect_answers": [
+"June 15, 1947",
+"January 15, 1943",
+"September 2, 1962"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "hard",
+"question": "What is the last line muttered in the anime film &quot;The End of Evangelion&quot;?",
+"correct_answer": "&quot;How disgusting.&quot;",
+"incorrect_answers": [
+"&quot;Idiot, I won&#039;t let you kill me!&quot;",
+"&quot;Nothing.&quot;",
+"&quot;Goddammit, Shinji.&quot;"
+]
+},
+{
+"category": "Entertainment: Video Games",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In the game The World Ends With You, all of these characters act as a game partner with Neku for a week except:",
+"correct_answer": "Rhyme",
+"incorrect_answers": [
+"Shiki",
+"Joshua",
+"Beat"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+"correct_answer": "US Open",
+"incorrect_answers": [
+"French Open",
+"Wimbledon",
+"Australian Open"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In &quot;Little Witch Academia&quot;, what is Shiny Chariot&#039;s alias at Luna Nova Academy?",
+"correct_answer": "Ursula Callistis",
+"incorrect_answers": [
+"Croix Meridies",
+"Miranda Holbrook",
+"Anne Finnelan"
+]
+},
+{
+"category": "Mythology",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In African mythology, Anansi is a trickster and storyteller who takes the shape of which animal?",
+"correct_answer": "Spider",
+"incorrect_answers": [
+"Wild dog",
+"Monkey",
+"Crocodile"
+]
+},
+{
+"category": "Entertainment: Comics",
+"type": "multiple",
+"difficulty": "medium",
+"question": "The stuffed tiger in Calvin and Hobbes is named after what philosopher?",
+"correct_answer": "Thomas Hobbes",
+"incorrect_answers": [
+"David Hobbes",
+"John Hobbes",
+"Nathaniel Hobbes"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+"correct_answer": "21",
+"incorrect_answers": [
+"23",
+"15",
+"24"
+]
+}]
+[{
+"category": "Entertainment: Television",
+"type": "multiple",
+"difficulty": "medium",
+"question": "From what show is the character &quot;James Doakes&quot;? ",
+"correct_answer": "Dexter",
+"incorrect_answers": [
+"Marvel&#039;s Daredevil",
+"Boardwalk Empire",
+"The Walking Dead"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which famous world leader is famed for the saying, &quot;Let them eat cake&quot;, yet is rumored that he/she never said it at all?",
+"correct_answer": "Marie Antoinette",
+"incorrect_answers": [
+"Czar Nicholas II",
+"Elizabeth I",
+"Henry VIII"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "medium",
+"question": "On which day did construction start on &quot;The Pentagon&quot;, the headquarters for the United States Department of Defense?",
+"correct_answer": "September 11, 1941",
+"incorrect_answers": [
+"June 15, 1947",
+"January 15, 1943",
+"September 2, 1962"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "hard",
+"question": "What is the last line muttered in the anime film &quot;The End of Evangelion&quot;?",
+"correct_answer": "&quot;How disgusting.&quot;",
+"incorrect_answers": [
+"&quot;Idiot, I won&#039;t let you kill me!&quot;",
+"&quot;Nothing.&quot;",
+"&quot;Goddammit, Shinji.&quot;"
+]
+},
+{
+"category": "Entertainment: Video Games",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In the game The World Ends With You, all of these characters act as a game partner with Neku for a week except:",
+"correct_answer": "Rhyme",
+"incorrect_answers": [
+"Shiki",
+"Joshua",
+"Beat"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+"correct_answer": "US Open",
+"incorrect_answers": [
+"French Open",
+"Wimbledon",
+"Australian Open"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In &quot;Little Witch Academia&quot;, what is Shiny Chariot&#039;s alias at Luna Nova Academy?",
+"correct_answer": "Ursula Callistis",
+"incorrect_answers": [
+"Croix Meridies",
+"Miranda Holbrook",
+"Anne Finnelan"
+]
+},
+{
+"category": "Mythology",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In African mythology, Anansi is a trickster and storyteller who takes the shape of which animal?",
+"correct_answer": "Spider",
+"incorrect_answers": [
+"Wild dog",
+"Monkey",
+"Crocodile"
+]
+},
+{
+"category": "Entertainment: Comics",
+"type": "multiple",
+"difficulty": "medium",
+"question": "The stuffed tiger in Calvin and Hobbes is named after what philosopher?",
+"correct_answer": "Thomas Hobbes",
+"incorrect_answers": [
+"David Hobbes",
+"John Hobbes",
+"Nathaniel Hobbes"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+"correct_answer": "21",
+"incorrect_answers": [
+"23",
+"15",
+"24"
+]
+}]
+[{
+"category": "Entertainment: Television",
+"type": "multiple",
+"difficulty": "medium",
+"question": "From what show is the character &quot;James Doakes&quot;? ",
+"correct_answer": "Dexter",
+"incorrect_answers": [
+"Marvel&#039;s Daredevil",
+"Boardwalk Empire",
+"The Walking Dead"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which famous world leader is famed for the saying, &quot;Let them eat cake&quot;, yet is rumored that he/she never said it at all?",
+"correct_answer": "Marie Antoinette",
+"incorrect_answers": [
+"Czar Nicholas II",
+"Elizabeth I",
+"Henry VIII"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "medium",
+"question": "On which day did construction start on &quot;The Pentagon&quot;, the headquarters for the United States Department of Defense?",
+"correct_answer": "September 11, 1941",
+"incorrect_answers": [
+"June 15, 1947",
+"January 15, 1943",
+"September 2, 1962"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "hard",
+"question": "What is the last line muttered in the anime film &quot;The End of Evangelion&quot;?",
+"correct_answer": "&quot;How disgusting.&quot;",
+"incorrect_answers": [
+"&quot;Idiot, I won&#039;t let you kill me!&quot;",
+"&quot;Nothing.&quot;",
+"&quot;Goddammit, Shinji.&quot;"
+]
+},
+{
+"category": "Entertainment: Video Games",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In the game The World Ends With You, all of these characters act as a game partner with Neku for a week except:",
+"correct_answer": "Rhyme",
+"incorrect_answers": [
+"Shiki",
+"Joshua",
+"Beat"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+"correct_answer": "US Open",
+"incorrect_answers": [
+"French Open",
+"Wimbledon",
+"Australian Open"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In &quot;Little Witch Academia&quot;, what is Shiny Chariot&#039;s alias at Luna Nova Academy?",
+"correct_answer": "Ursula Callistis",
+"incorrect_answers": [
+"Croix Meridies",
+"Miranda Holbrook",
+"Anne Finnelan"
+]
+},
+{
+"category": "Mythology",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In African mythology, Anansi is a trickster and storyteller who takes the shape of which animal?",
+"correct_answer": "Spider",
+"incorrect_answers": [
+"Wild dog",
+"Monkey",
+"Crocodile"
+]
+},
+{
+"category": "Entertainment: Comics",
+"type": "multiple",
+"difficulty": "medium",
+"question": "The stuffed tiger in Calvin and Hobbes is named after what philosopher?",
+"correct_answer": "Thomas Hobbes",
+"incorrect_answers": [
+"David Hobbes",
+"John Hobbes",
+"Nathaniel Hobbes"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+"correct_answer": "21",
+"incorrect_answers": [
+"23",
+"15",
+"24"
+]
+}]
+[{
+"category": "Entertainment: Television",
+"type": "multiple",
+"difficulty": "medium",
+"question": "From what show is the character &quot;James Doakes&quot;? ",
+"correct_answer": "Dexter",
+"incorrect_answers": [
+"Marvel&#039;s Daredevil",
+"Boardwalk Empire",
+"The Walking Dead"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which famous world leader is famed for the saying, &quot;Let them eat cake&quot;, yet is rumored that he/she never said it at all?",
+"correct_answer": "Marie Antoinette",
+"incorrect_answers": [
+"Czar Nicholas II",
+"Elizabeth I",
+"Henry VIII"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "medium",
+"question": "On which day did construction start on &quot;The Pentagon&quot;, the headquarters for the United States Department of Defense?",
+"correct_answer": "September 11, 1941",
+"incorrect_answers": [
+"June 15, 1947",
+"January 15, 1943",
+"September 2, 1962"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "hard",
+"question": "What is the last line muttered in the anime film &quot;The End of Evangelion&quot;?",
+"correct_answer": "&quot;How disgusting.&quot;",
+"incorrect_answers": [
+"&quot;Idiot, I won&#039;t let you kill me!&quot;",
+"&quot;Nothing.&quot;",
+"&quot;Goddammit, Shinji.&quot;"
+]
+},
+{
+"category": "Entertainment: Video Games",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In the game The World Ends With You, all of these characters act as a game partner with Neku for a week except:",
+"correct_answer": "Rhyme",
+"incorrect_answers": [
+"Shiki",
+"Joshua",
+"Beat"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+"correct_answer": "US Open",
+"incorrect_answers": [
+"French Open",
+"Wimbledon",
+"Australian Open"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In &quot;Little Witch Academia&quot;, what is Shiny Chariot&#039;s alias at Luna Nova Academy?",
+"correct_answer": "Ursula Callistis",
+"incorrect_answers": [
+"Croix Meridies",
+"Miranda Holbrook",
+"Anne Finnelan"
+]
+},
+{
+"category": "Mythology",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In African mythology, Anansi is a trickster and storyteller who takes the shape of which animal?",
+"correct_answer": "Spider",
+"incorrect_answers": [
+"Wild dog",
+"Monkey",
+"Crocodile"
+]
+},
+{
+"category": "Entertainment: Comics",
+"type": "multiple",
+"difficulty": "medium",
+"question": "The stuffed tiger in Calvin and Hobbes is named after what philosopher?",
+"correct_answer": "Thomas Hobbes",
+"incorrect_answers": [
+"David Hobbes",
+"John Hobbes",
+"Nathaniel Hobbes"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+"correct_answer": "21",
+"incorrect_answers": [
+"23",
+"15",
+"24"
+]
+}]
+[{
+"category": "Entertainment: Television",
+"type": "multiple",
+"difficulty": "medium",
+"question": "From what show is the character &quot;James Doakes&quot;? ",
+"correct_answer": "Dexter",
+"incorrect_answers": [
+"Marvel&#039;s Daredevil",
+"Boardwalk Empire",
+"The Walking Dead"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which famous world leader is famed for the saying, &quot;Let them eat cake&quot;, yet is rumored that he/she never said it at all?",
+"correct_answer": "Marie Antoinette",
+"incorrect_answers": [
+"Czar Nicholas II",
+"Elizabeth I",
+"Henry VIII"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "medium",
+"question": "On which day did construction start on &quot;The Pentagon&quot;, the headquarters for the United States Department of Defense?",
+"correct_answer": "September 11, 1941",
+"incorrect_answers": [
+"June 15, 1947",
+"January 15, 1943",
+"September 2, 1962"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "hard",
+"question": "What is the last line muttered in the anime film &quot;The End of Evangelion&quot;?",
+"correct_answer": "&quot;How disgusting.&quot;",
+"incorrect_answers": [
+"&quot;Idiot, I won&#039;t let you kill me!&quot;",
+"&quot;Nothing.&quot;",
+"&quot;Goddammit, Shinji.&quot;"
+]
+},
+{
+"category": "Entertainment: Video Games",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In the game The World Ends With You, all of these characters act as a game partner with Neku for a week except:",
+"correct_answer": "Rhyme",
+"incorrect_answers": [
+"Shiki",
+"Joshua",
+"Beat"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+"correct_answer": "US Open",
+"incorrect_answers": [
+"French Open",
+"Wimbledon",
+"Australian Open"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In &quot;Little Witch Academia&quot;, what is Shiny Chariot&#039;s alias at Luna Nova Academy?",
+"correct_answer": "Ursula Callistis",
+"incorrect_answers": [
+"Croix Meridies",
+"Miranda Holbrook",
+"Anne Finnelan"
+]
+},
+{
+"category": "Mythology",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In African mythology, Anansi is a trickster and storyteller who takes the shape of which animal?",
+"correct_answer": "Spider",
+"incorrect_answers": [
+"Wild dog",
+"Monkey",
+"Crocodile"
+]
+},
+{
+"category": "Entertainment: Comics",
+"type": "multiple",
+"difficulty": "medium",
+"question": "The stuffed tiger in Calvin and Hobbes is named after what philosopher?",
+"correct_answer": "Thomas Hobbes",
+"incorrect_answers": [
+"David Hobbes",
+"John Hobbes",
+"Nathaniel Hobbes"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+"correct_answer": "21",
+"incorrect_answers": [
+"23",
+"15",
+"24"
+]
+}]
+[{
+"category": "Entertainment: Television",
+"type": "multiple",
+"difficulty": "medium",
+"question": "From what show is the character &quot;James Doakes&quot;? ",
+"correct_answer": "Dexter",
+"incorrect_answers": [
+"Marvel&#039;s Daredevil",
+"Boardwalk Empire",
+"The Walking Dead"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which famous world leader is famed for the saying, &quot;Let them eat cake&quot;, yet is rumored that he/she never said it at all?",
+"correct_answer": "Marie Antoinette",
+"incorrect_answers": [
+"Czar Nicholas II",
+"Elizabeth I",
+"Henry VIII"
+]
+},
+{
+"category": "History",
+"type": "multiple",
+"difficulty": "medium",
+"question": "On which day did construction start on &quot;The Pentagon&quot;, the headquarters for the United States Department of Defense?",
+"correct_answer": "September 11, 1941",
+"incorrect_answers": [
+"June 15, 1947",
+"January 15, 1943",
+"September 2, 1962"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "hard",
+"question": "What is the last line muttered in the anime film &quot;The End of Evangelion&quot;?",
+"correct_answer": "&quot;How disgusting.&quot;",
+"incorrect_answers": [
+"&quot;Idiot, I won&#039;t let you kill me!&quot;",
+"&quot;Nothing.&quot;",
+"&quot;Goddammit, Shinji.&quot;"
+]
+},
+{
+"category": "Entertainment: Video Games",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In the game The World Ends With You, all of these characters act as a game partner with Neku for a week except:",
+"correct_answer": "Rhyme",
+"incorrect_answers": [
+"Shiki",
+"Joshua",
+"Beat"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+"correct_answer": "US Open",
+"incorrect_answers": [
+"French Open",
+"Wimbledon",
+"Australian Open"
+]
+},
+{
+"category": "Entertainment: Japanese Anime & Manga",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In &quot;Little Witch Academia&quot;, what is Shiny Chariot&#039;s alias at Luna Nova Academy?",
+"correct_answer": "Ursula Callistis",
+"incorrect_answers": [
+"Croix Meridies",
+"Miranda Holbrook",
+"Anne Finnelan"
+]
+},
+{
+"category": "Mythology",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In African mythology, Anansi is a trickster and storyteller who takes the shape of which animal?",
+"correct_answer": "Spider",
+"incorrect_answers": [
+"Wild dog",
+"Monkey",
+"Crocodile"
+]
+},
+{
+"category": "Entertainment: Comics",
+"type": "multiple",
+"difficulty": "medium",
+"question": "The stuffed tiger in Calvin and Hobbes is named after what philosopher?",
+"correct_answer": "Thomas Hobbes",
+"incorrect_answers": [
+"David Hobbes",
+"John Hobbes",
+"Nathaniel Hobbes"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+"correct_answer": "21",
+"incorrect_answers": [
+"23",
+"15",
+"24"
+]
+}]
